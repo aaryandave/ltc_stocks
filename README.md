@@ -8,7 +8,7 @@ This project uses Liquid Neural Networks to predict the closing price of a stock
 
 - `GOOGL.csv`: Contains historical data with Date, Open, High, Low, Close, Adj Close, and Volume for Google stock.
 - `stock_model_(16, 1).h5`: Saved LTC model for predicting stock trends.
-- `train_ltcs.py`: Python script for training the LTC model.
+- `train_ltc.py`: Python script for training the LTC model.
 
 ### Requirements
 
